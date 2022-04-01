@@ -18,6 +18,7 @@
 
     <modules>
         <module>start</module>
+        <module>client</module>
     </modules>
 
 
